@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1638056016 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\ip.cpp
+	"ip.h"
+	<math.h>
+	<cstdlib>
+	<stdlib.h>
+	<string>
+
+1638056017 d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\ip.h
+	<iostream>
+	<pcap.h>
+	"arp.h"
+
+1638463885 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\main.cpp
+	<iostream>
+	<stdlib.h>
+	"ip.h"
+	"arp.h"
+	"tcpudp.h"
+	"dns.h"
+	<pcap.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<pcap.h>
+
+1638056008 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\arp.cpp
+	"arp.h"
+	<math.h>
+
+1638056010 d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\arp.h
+	<iostream>
+	<pcap.h>
+
+1633306529 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\rarp.cpp
+	"rarp.h"
+	<math.h>
+
+1633008608 d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\rarp.h
+	<iostream>
+
+1638056022 d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\tcpudp.h
+	<iostream>
+	<math.h>
+	<pcap.h>
+	"arp.h"
+
+1638056021 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\tcpudp.cpp
+	"tcpudp.h"
+
+1638463668 source:d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\dns.cpp
+	"dns.h"
+
+1638463669 d:\escritorio\hector uni\tercer semestre\seminario de redes\actividad\proyecto\actividad\ola\dns.h
+	<iostream>
+	<math.h>
+	"arp.h"
+
